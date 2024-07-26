@@ -1,3 +1,5 @@
+This is a project for the Operating Systems course that I completed during the second year of my Bachelor's degree in Computer Science.
+
 - [Rules](#rules)
 - [Functionality](#functionality)
   - [Server](#server)
